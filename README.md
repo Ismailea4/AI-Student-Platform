@@ -20,4 +20,7 @@ A collaborative platform for AI students at ENSIAS to share lecture notes, quizz
 1. Clone the repository: `git clone https://github.com/Ismailea4/AI-Student-Platform.git`
 2. Follow the setup instructions in the `/docs` folder.
 
+## Links
+For Github and Git beginners : https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners
+
 ## I believe on you guys <3
